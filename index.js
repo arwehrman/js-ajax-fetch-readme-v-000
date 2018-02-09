@@ -1,5 +1,5 @@
 
-const token = 'e128dee41b0bb4573f8b717debd615de47c4d1e5'
+const token = 'token'
 fetch('https://api.github.com/user/repos', {
   headers: {
     Authorization: `token ${token}`
